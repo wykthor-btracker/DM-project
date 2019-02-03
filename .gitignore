@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Django-specific
+env
+*.DS_Store
+*.pyc
+__pycache__
+
 # C extensions
 *.so
 
